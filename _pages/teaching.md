@@ -28,8 +28,7 @@ Students will engage with recent research papers and develop individual projects
 - [Timeline](#timeline)
 - [Debate topics](#debate-topics)
   - [Debate Topic 1: Training & emergent properties](#debate-topic-1-training--emergent-properties)
-  - [Debate Topic 2: Scientific use](#debate-topic-2-scientific-use)
-  - [Debate Topic 3: Validation](#debate-topic-3-validation)
+  - [Debate Topic 2: Scientific use & validation](#debate-topic-2-scientific-use)
 - [Project ideas](#project-ideas)
 
 
